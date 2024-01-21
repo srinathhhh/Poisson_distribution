@@ -73,7 +73,7 @@ else:
  
 
 # Output : 
-
+![image](https://github.com/adhi2k/Poisson_distribution/assets/145216997/b7d5b944-fc1a-49dd-a422-b26d11cdb4fa)
 
 
 # Results
